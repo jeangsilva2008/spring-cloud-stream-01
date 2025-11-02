@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jeans.spring.cloud.stream.stream01.Stream01ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-02T02:47:54" hostname="MacBookPro" time="0.993">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.jeans.spring.cloud.stream.stream01.Stream01ApplicationTests" time="0.993"/>
+  <system-out><![CDATA[23:47:52.750 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.jeans.spring.cloud.stream.stream01.Stream01ApplicationTests]: Stream01ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:47:52.935 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.jeans.spring.cloud.stream.stream01.Stream01Application for test class com.jeans.spring.cloud.stream.stream01.Stream01ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.7)
+
+2025-11-01T23:47:53.644-03:00  INFO 64097 --- [stream01] [    Test worker] c.j.s.c.s.s.Stream01ApplicationTests     : Starting Stream01ApplicationTests using Java 17.0.12 with PID 64097 (started by jeangsilva2021 in /Users/jeangsilva2021/Projects/github-jeangsilva2008/spring-cloud-stream-01)
+2025-11-01T23:47:53.647-03:00  INFO 64097 --- [stream01] [    Test worker] c.j.s.c.s.s.Stream01ApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2025-11-01T23:47:54.829-03:00  INFO 64097 --- [stream01] [    Test worker] c.j.s.c.s.s.Stream01ApplicationTests     : Started Stream01ApplicationTests in 1.635 seconds (process running for 3.853)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
